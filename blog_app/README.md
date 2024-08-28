@@ -76,3 +76,7 @@ The Blog App fetches data from the following API endpoint:
 
 - **Get All Blogs**: `GET /api/blogs`
 - **Get Blog by ID**: `GET /api/blogs/:id`
+
+### Development Link 
+
+- `https://g5-web-assessment-flax.vercel.app/`
